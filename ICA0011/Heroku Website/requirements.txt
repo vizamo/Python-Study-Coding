@@ -1,0 +1,5 @@
+flask
+pytest
+gunicorn
+flask-mysqldb
+PyYAML
