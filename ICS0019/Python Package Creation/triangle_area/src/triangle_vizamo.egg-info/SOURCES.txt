@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/triangle_area_package/__init__.py
+src/triangle_area_package/triangle_area.py
+src/triangle_vizamo.egg-info/PKG-INFO
+src/triangle_vizamo.egg-info/SOURCES.txt
+src/triangle_vizamo.egg-info/dependency_links.txt
+src/triangle_vizamo.egg-info/top_level.txt

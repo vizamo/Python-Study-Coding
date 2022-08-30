@@ -1,0 +1,30 @@
+Metadata-Version: 2.1
+Name: triangle-vizamo
+Version: 1.0.1
+Summary: Simple function that finds area of triangle
+Home-page: https://github.com/vizamo/triangle-area-vizamo
+Author: Vitali Zamorski
+Author-email: vizamo@ttu.ee
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/vizamo/triangle-area-vizamo/issues
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Triangle Area Calculation Package
+
+## This module is designed to easily calculate the triangle area
+
+To do this, use the function triangle_area(b, h)
+![Triangle Picture](https://www.mathsisfun.com/geometry/images/triangle-b-h.svg)
+
+Put in it the values of __height h__ and __base b__
+
+> Values must be integers or floats.
+> Values must be greater than 0.
+
+
