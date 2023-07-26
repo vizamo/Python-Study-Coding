@@ -1,0 +1,39 @@
+{
+  "mainDetails": {
+    "city": "Dubai",
+    "coordinates": "25.2582,55.3047",
+    "temperatureUnit": "Celsius"
+  },
+  "currentWeatherReport": {
+    "date": "12-12-2022",
+    "temperature": 27,
+    "humidity": 32,
+    "pressure": 1015
+  },
+  "forecastReport": [
+    {
+      "date": "13-12-2022",
+      "weather": {
+        "temperature": 23.96,
+        "humidity": 47,
+        "pressure": 1015
+      }
+    },
+    {
+      "date": "14-12-2022",
+      "weather": {
+        "temperature": 24.59,
+        "humidity": 54,
+        "pressure": 1015
+      }
+    },
+    {
+      "date": "15-12-2022",
+      "weather": {
+        "temperature": 24.71,
+        "humidity": 54,
+        "pressure": 1014
+      }
+    }
+  ]
+}

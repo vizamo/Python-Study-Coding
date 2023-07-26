@@ -1,0 +1,39 @@
+{
+  "mainDetails": {
+    "city": "Moscow",
+    "coordinates": "55.7522,37.6156",
+    "temperatureUnit": "Celsius"
+  },
+  "currentWeatherReport": {
+    "date": "12-12-2022",
+    "temperature": 3.08,
+    "humidity": 99,
+    "pressure": 1004
+  },
+  "forecastReport": [
+    {
+      "date": "13-12-2022",
+      "weather": {
+        "temperature": -0.45,
+        "humidity": 98,
+        "pressure": 1010
+      }
+    },
+    {
+      "date": "14-12-2022",
+      "weather": {
+        "temperature": -4.65,
+        "humidity": 95,
+        "pressure": 1002
+      }
+    },
+    {
+      "date": "15-12-2022",
+      "weather": {
+        "temperature": -6.18,
+        "humidity": 93,
+        "pressure": 1020
+      }
+    }
+  ]
+}

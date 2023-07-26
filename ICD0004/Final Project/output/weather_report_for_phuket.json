@@ -1,0 +1,39 @@
+{
+  "mainDetails": {
+    "city": "Phuket",
+    "coordinates": "8,98.25",
+    "temperatureUnit": "Celsius"
+  },
+  "currentWeatherReport": {
+    "date": "12-12-2022",
+    "temperature": 23.12,
+    "humidity": 100,
+    "pressure": 1007
+  },
+  "forecastReport": [
+    {
+      "date": "13-12-2022",
+      "weather": {
+        "temperature": 25.64,
+        "humidity": 85,
+        "pressure": 1009
+      }
+    },
+    {
+      "date": "14-12-2022",
+      "weather": {
+        "temperature": 25.93,
+        "humidity": 83,
+        "pressure": 1008
+      }
+    },
+    {
+      "date": "15-12-2022",
+      "weather": {
+        "temperature": 25.45,
+        "humidity": 85,
+        "pressure": 1007
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "mainDetails": {
+    "city": "Istanbul",
+    "coordinates": "41.0351,28.9833",
+    "temperatureUnit": "Celsius"
+  },
+  "currentWeatherReport": {
+    "date": "12-12-2022",
+    "temperature": 15.73,
+    "humidity": 77,
+    "pressure": 1007
+  },
+  "forecastReport": [
+    {
+      "date": "13-12-2022",
+      "weather": {
+        "temperature": 6.88,
+        "humidity": 53,
+        "pressure": 1014
+      }
+    },
+    {
+      "date": "14-12-2022",
+      "weather": {
+        "temperature": 10.49,
+        "humidity": 68,
+        "pressure": 1014
+      }
+    },
+    {
+      "date": "15-12-2022",
+      "weather": {
+        "temperature": 14.31,
+        "humidity": 79,
+        "pressure": 1013
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "mainDetails": {
+    "city": "Narva",
+    "coordinates": "59.3772,28.1903",
+    "temperatureUnit": "Celsius"
+  },
+  "currentWeatherReport": {
+    "date": "12-12-2022",
+    "temperature": -5.9,
+    "humidity": 91,
+    "pressure": 1001
+  },
+  "forecastReport": [
+    {
+      "date": "13-12-2022",
+      "weather": {
+        "temperature": -5.07,
+        "humidity": 92,
+        "pressure": 995
+      }
+    },
+    {
+      "date": "14-12-2022",
+      "weather": {
+        "temperature": -6.76,
+        "humidity": 91,
+        "pressure": 1002
+      }
+    },
+    {
+      "date": "15-12-2022",
+      "weather": {
+        "temperature": -8.33,
+        "humidity": 88,
+        "pressure": 1007
+      }
+    }
+  ]
+}

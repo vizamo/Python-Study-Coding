@@ -1,0 +1,39 @@
+{
+  "mainDetails": {
+    "city": "Prague",
+    "coordinates": "50.088,14.4208",
+    "temperatureUnit": "Celsius"
+  },
+  "currentWeatherReport": {
+    "date": "12-12-2022",
+    "temperature": -2.04,
+    "humidity": 90,
+    "pressure": 1008
+  },
+  "forecastReport": [
+    {
+      "date": "13-12-2022",
+      "weather": {
+        "temperature": -1.96,
+        "humidity": 74,
+        "pressure": 1014
+      }
+    },
+    {
+      "date": "14-12-2022",
+      "weather": {
+        "temperature": -1.96,
+        "humidity": 88,
+        "pressure": 1003
+      }
+    },
+    {
+      "date": "15-12-2022",
+      "weather": {
+        "temperature": -1.85,
+        "humidity": 83,
+        "pressure": 1011
+      }
+    }
+  ]
+}

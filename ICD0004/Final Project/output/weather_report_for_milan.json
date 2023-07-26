@@ -1,0 +1,39 @@
+{
+  "mainDetails": {
+    "city": "Milan",
+    "coordinates": "45.4643,9.1895",
+    "temperatureUnit": "Celsius"
+  },
+  "currentWeatherReport": {
+    "date": "12-12-2022",
+    "temperature": 2.47,
+    "humidity": 83,
+    "pressure": 1010
+  },
+  "forecastReport": [
+    {
+      "date": "13-12-2022",
+      "weather": {
+        "temperature": 3.98,
+        "humidity": 48,
+        "pressure": 1011
+      }
+    },
+    {
+      "date": "14-12-2022",
+      "weather": {
+        "temperature": 4.57,
+        "humidity": 42,
+        "pressure": 1006
+      }
+    },
+    {
+      "date": "15-12-2022",
+      "weather": {
+        "temperature": 2.62,
+        "humidity": 71,
+        "pressure": 1008
+      }
+    }
+  ]
+}

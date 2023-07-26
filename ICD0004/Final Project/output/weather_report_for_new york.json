@@ -1,0 +1,39 @@
+{
+  "mainDetails": {
+    "city": "New York",
+    "coordinates": "40.7143,-74.006",
+    "temperatureUnit": "Celsius"
+  },
+  "currentWeatherReport": {
+    "date": "12-12-2022",
+    "temperature": -0.17,
+    "humidity": 86,
+    "pressure": 1020
+  },
+  "forecastReport": [
+    {
+      "date": "13-12-2022",
+      "weather": {
+        "temperature": -0.6,
+        "humidity": 68,
+        "pressure": 1025
+      }
+    },
+    {
+      "date": "14-12-2022",
+      "weather": {
+        "temperature": -1.56,
+        "humidity": 58,
+        "pressure": 1020
+      }
+    },
+    {
+      "date": "15-12-2022",
+      "weather": {
+        "temperature": 0.82,
+        "humidity": 68,
+        "pressure": 1025
+      }
+    }
+  ]
+}

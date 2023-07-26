@@ -1,0 +1,39 @@
+{
+  "mainDetails": {
+    "city": "Bangkok",
+    "coordinates": "13.75,100.5167",
+    "temperatureUnit": "Celsius"
+  },
+  "currentWeatherReport": {
+    "date": "12-12-2022",
+    "temperature": 29.49,
+    "humidity": 57,
+    "pressure": 1009
+  },
+  "forecastReport": [
+    {
+      "date": "13-12-2022",
+      "weather": {
+        "temperature": 26.63,
+        "humidity": 51,
+        "pressure": 1012
+      }
+    },
+    {
+      "date": "14-12-2022",
+      "weather": {
+        "temperature": 26.25,
+        "humidity": 51,
+        "pressure": 1012
+      }
+    },
+    {
+      "date": "15-12-2022",
+      "weather": {
+        "temperature": 27.08,
+        "humidity": 51,
+        "pressure": 1009
+      }
+    }
+  ]
+}

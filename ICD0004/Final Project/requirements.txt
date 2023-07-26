@@ -1,0 +1,8 @@
+# Requirements for running the app
+requests
+datetime
+
+# Requirements for running the tests
+pytest
+datetime
+requests_mock

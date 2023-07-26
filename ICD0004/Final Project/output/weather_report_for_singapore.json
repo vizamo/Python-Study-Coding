@@ -1,0 +1,39 @@
+{
+  "mainDetails": {
+    "city": "Singapore",
+    "coordinates": "1.2897,103.8501",
+    "temperatureUnit": "Celsius"
+  },
+  "currentWeatherReport": {
+    "date": "12-12-2022",
+    "temperature": 27.89,
+    "humidity": 77,
+    "pressure": 1007
+  },
+  "forecastReport": [
+    {
+      "date": "13-12-2022",
+      "weather": {
+        "temperature": 26.45,
+        "humidity": 81,
+        "pressure": 1009
+      }
+    },
+    {
+      "date": "14-12-2022",
+      "weather": {
+        "temperature": 24.64,
+        "humidity": 90,
+        "pressure": 1009
+      }
+    },
+    {
+      "date": "15-12-2022",
+      "weather": {
+        "temperature": 23.84,
+        "humidity": 88,
+        "pressure": 1008
+      }
+    }
+  ]
+}

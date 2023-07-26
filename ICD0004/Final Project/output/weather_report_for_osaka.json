@@ -1,0 +1,39 @@
+{
+  "mainDetails": {
+    "city": "Osaka",
+    "coordinates": "34.6937,135.5022",
+    "temperatureUnit": "Celsius"
+  },
+  "currentWeatherReport": {
+    "date": "12-12-2022",
+    "temperature": 8.48,
+    "humidity": 48,
+    "pressure": 1020
+  },
+  "forecastReport": [
+    {
+      "date": "13-12-2022",
+      "weather": {
+        "temperature": 11.2,
+        "humidity": 53,
+        "pressure": 1017
+      }
+    },
+    {
+      "date": "14-12-2022",
+      "weather": {
+        "temperature": 4.09,
+        "humidity": 43,
+        "pressure": 1023
+      }
+    },
+    {
+      "date": "15-12-2022",
+      "weather": {
+        "temperature": 6.82,
+        "humidity": 47,
+        "pressure": 1026
+      }
+    }
+  ]
+}

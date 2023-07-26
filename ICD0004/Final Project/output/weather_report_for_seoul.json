@@ -1,0 +1,39 @@
+{
+  "mainDetails": {
+    "city": "Seoul",
+    "coordinates": "37.5683,126.9778",
+    "temperatureUnit": "Celsius"
+  },
+  "currentWeatherReport": {
+    "date": "12-12-2022",
+    "temperature": 2.62,
+    "humidity": 93,
+    "pressure": 1017
+  },
+  "forecastReport": [
+    {
+      "date": "13-12-2022",
+      "weather": {
+        "temperature": -3.85,
+        "humidity": 60,
+        "pressure": 1023
+      }
+    },
+    {
+      "date": "14-12-2022",
+      "weather": {
+        "temperature": -4.82,
+        "humidity": 47,
+        "pressure": 1029
+      }
+    },
+    {
+      "date": "15-12-2022",
+      "weather": {
+        "temperature": -1.57,
+        "humidity": 69,
+        "pressure": 1027
+      }
+    }
+  ]
+}

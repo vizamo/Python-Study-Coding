@@ -1,0 +1,39 @@
+{
+  "mainDetails": {
+    "city": "Barcelona",
+    "coordinates": "41.3888,2.159",
+    "temperatureUnit": "Celsius"
+  },
+  "currentWeatherReport": {
+    "date": "12-12-2022",
+    "temperature": 9.62,
+    "humidity": 71,
+    "pressure": 1010
+  },
+  "forecastReport": [
+    {
+      "date": "13-12-2022",
+      "weather": {
+        "temperature": 13.19,
+        "humidity": 74,
+        "pressure": 1006
+      }
+    },
+    {
+      "date": "14-12-2022",
+      "weather": {
+        "temperature": 14.96,
+        "humidity": 71,
+        "pressure": 1006
+      }
+    },
+    {
+      "date": "15-12-2022",
+      "weather": {
+        "temperature": 14.26,
+        "humidity": 69,
+        "pressure": 1000
+      }
+    }
+  ]
+}

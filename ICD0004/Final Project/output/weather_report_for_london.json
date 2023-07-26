@@ -1,0 +1,39 @@
+{
+  "mainDetails": {
+    "city": "London",
+    "coordinates": "51.5085,-0.1257",
+    "temperatureUnit": "Celsius"
+  },
+  "currentWeatherReport": {
+    "date": "12-12-2022",
+    "temperature": -0.06,
+    "humidity": 94,
+    "pressure": 1008
+  },
+  "forecastReport": [
+    {
+      "date": "13-12-2022",
+      "weather": {
+        "temperature": 1.7,
+        "humidity": 75,
+        "pressure": 1008
+      }
+    },
+    {
+      "date": "14-12-2022",
+      "weather": {
+        "temperature": 2.51,
+        "humidity": 68,
+        "pressure": 1006
+      }
+    },
+    {
+      "date": "15-12-2022",
+      "weather": {
+        "temperature": 1.2,
+        "humidity": 67,
+        "pressure": 1015
+      }
+    }
+  ]
+}
